@@ -1,0 +1,6 @@
+.centered-flexbox {
+    display: flex;
+    justify-content: center; /* This aligns items horizontally in the center */
+    align-items: center; /* This aligns items vertically in the center */
+    gap: 2px; /* This creates space between each item both vertically and horizontally */
+}
